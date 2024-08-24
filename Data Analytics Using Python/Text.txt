@@ -1,1 +1,2 @@
-
+In this I've done analysis on hotel booking data with Data analytics using python.
+Also done predicting model of logistic regression for predicting the cancellations in both resort and city hotels.
