@@ -70,4 +70,4 @@ Predicting the cancellations in both hotels by using the Logistic Regression Alg
   <h4> * This is an interactive dashboard, you can download it from my repo, it's called "
 Hotel Data Analysis.pbix" * </h4>  
 
-![visualize]()
+![visualize](https://github.com/prasad5812345/Hotel-Booking-Data-Analysis-/blob/main/Power%20BI%20project/dashboard.png)
