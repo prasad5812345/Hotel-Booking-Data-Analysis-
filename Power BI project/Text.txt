@@ -1,1 +1,1 @@
-In this it show the dashboard we analyse the revenue data of the hotel bookings.
+In this it shows the dashboard we analyse the revenue data of the hotel bookings.
